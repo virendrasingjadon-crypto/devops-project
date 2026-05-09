@@ -3,3 +3,4 @@ thanks
 now i am update this file again i will push it
 login feature added
 navbar fixed
+latest bug fix
